@@ -32,6 +32,9 @@ gem 'devise', '~> 3.4.1'
 # Use Unicorn as the app server
 # gem 'unicorn'
 
+# Paperclip for ActiveRecord uploads
+gem 'paperclip', '~> 4.2.1'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
